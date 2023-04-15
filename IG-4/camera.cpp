@@ -1,7 +1,7 @@
 #include <GL/freeglut.h>
 
 #include "camera.h"
-
+#define M_PI 3.14
 const static float STEP_SCALE = 0.4f;
 const static int MARGIN = 10;
 
